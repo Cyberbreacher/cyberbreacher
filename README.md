@@ -1,25 +1,16 @@
-<h1 align="center">Hi 👋, I'm Cyber Breacher</h1>
-<h3 align="center">A passionate developer and penetration tester.</h3>
+### Hi there 👋, I'm Cyber Breacher
+#### I am a developer and penetration tester.
+![I am a developer and penetration tester.](https://github.com/cyberbreacher/cyberbreacher/raw/main/Black%20and%20Green%20Photo%20Gaming%20YouTube%20Channel%20Art.png)
 
-- 🔭 I’m currently working on **PROSLIPSI.**
+I will teach you Hacking, Programming, and Basics. I believe knowledge should be free of cost, and I am here to create a world where knowledge will be free. If you think my belief in costless education is right, and learn with me.
 
-- 🌱 I’m currently learning **Blockchain Development.**
+Skills: PYTHON / HTML / CSS / LINUX
 
-- 📝 I regularly write articles on [https://cyber-breacher.blogspot.com](https://cyber-breacher.blogspot.com)
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Blockchain Development. 
+- 📫 How to reach me: cyberbreacher@protonmail.com 
+- ⚡ Fun fact: I Think I am a pyschopath 
 
-- 📫 How to reach me **cyberbreacher@protonmail.com**
 
-- ⚡ Fun fact **I think I am a psychopath**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cyberbreacher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cyberbreacher/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/cyberbreacher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cyberbreacher/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/cyberbreacher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/cyberbreacher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/cyberbreacher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.cyber-breacher.blogspot.com)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cyberbreacher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="cyberbreacher" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cyberbreacher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="cyberbreacher" height="30" width="40" /></a>
-<a href="https://fb.com/cyberbreacher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="cyberbreacher" height="30" width="40" /></a>
-<a href="https://instagram.com/cyberbreacher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="cyberbreacher" height="30" width="40" /></a>
-<a href="https://medium.com/cyberbreacher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="cyberbreacher" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cyberbreacher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="cyberbreacher" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
