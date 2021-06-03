@@ -2,11 +2,11 @@
 #### I am a developer and penetration tester.
 ![I am a developer and penetration tester.](https://github.com/cyberbreacher/cyberbreacher/raw/main/Black%20and%20Green%20Photo%20Gaming%20YouTube%20Channel%20Art.png)
 
-I will teach you Hacking, Programming, and Basics. I believe knowledge should be free of cost, and I am here to create a world where knowledge will be free. If you think my belief in costless education is right, and learn with me.
+I will teach you Hacking, Programming, and Basics. I believe knowledge should be free of cost, and I am here to create a world where knowledge will be free. If you think my belief in costless education is right, then learn with me.
 
 Skills: PYTHON / HTML / CSS / LINUX
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on PROSLIPSI. 
 - 🌱 I’m currently learning Blockchain Development. 
 - 📫 How to reach me: cyberbreacher@protonmail.com 
 - ⚡ Fun fact: I Think I am a pyschopath 
